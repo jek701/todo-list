@@ -3,9 +3,9 @@ import React, { Component } from "react";
 export default class ItemStatusFilter extends Component {
 
     buttons = [
-        {name: 'all', label: 'All'},
-        {name: 'active', label: 'Active'},
-        {name: 'done', label: 'Done'}
+        {name: 'all', label: 'Все'},
+        {name: 'active', label: 'Делаются'},
+        {name: 'done', label: 'Сделаны'}
     ]
 
     render() {
