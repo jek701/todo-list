@@ -1,0 +1,59 @@
+.todo-list .list-group-item {
+    padding: .25rem .75rem ;
+}
+
+.btn-group {
+    border-radius: 6px;
+}
+
+.btn-group button {
+    border: 1px solid #9c9c9c;
+}
+
+.display-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn {
+    margin: 0 .5em;
+}
+
+.btn-info {
+    margin: 0 !important ;
+}
+
+.list-group.todo-list {
+    margin: 1em 0;
+}
+
+.app-header {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+}
+
+.padding {
+    margin: 1em;
+}
+
+.input {
+    width: 40%;
+    margin: 0 10px 0 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.btn.btn-outline-secondary {
+    margin: 0;
+}
+
+.form-control {
+    margin: 0 0.5em 0 0;
+}
